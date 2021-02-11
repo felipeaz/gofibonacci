@@ -8,15 +8,16 @@ Use `go tool` to install this package on your go Project.
 
 # Usage
 You must have this package installed on your project. You can do that by using the line bellow.
-`
+```
 import (
 	"fmt"
 
 	fibonacci "github.com/FelipeAz/gofibonacci"
-)`
+)
+```
 
 # Example
-`
+```
 package main
 
 import (
@@ -28,7 +29,8 @@ import (
 func main() {
 	fmt.Println(fibonacci.Sequence(20))
 	fmt.Println(fibonacci.NumberAtPosition(10))
-}`
+}
+```
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
