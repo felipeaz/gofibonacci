@@ -9,6 +9,7 @@ Use `go tool` to install this package on your go Project.
 # Usage
 You must have this package installed on your project. You can do that by using the line bellow.
 
+go
 import (
 	"fmt"
 
@@ -17,6 +18,7 @@ import (
 
 # Example
 
+go
 package main
 
 import (
