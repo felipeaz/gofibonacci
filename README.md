@@ -17,7 +17,6 @@ import (
 
 # Example
 
-go
 package main
 
 import (
