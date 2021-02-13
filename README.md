@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 
-	fibonacci "gitlab.com/felipeazvdslv/gofibonacci"
+	fibonacci "github.com/FelipeAz/gofibonacci"
 )
 
 func main() {
